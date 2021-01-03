@@ -6,4 +6,4 @@
 ###### App contains of one screen divided into two fragments. The architecture design is pretty clean, providers can talk to each other without knowing each other, it is done through observer pattern
 
 
-<img src="./photos/imageRepository.jpg" >
+<img src="./photos/rep.jpg" width="400">
